@@ -6,10 +6,10 @@ Projek akhir Grafika
 
 # Kontributor
 - Shafira Azis (Maintainer)
-- Daeng Taba Umar (Dokumentator)
+- Zull Junandi Duwila (Dokumentator)
+- Daeng Taba Umar (Kontributor)
 - Astika Ruslan (Kontributor)
 - Rusmini Hairun (Kontributor)
-- Zull Junandi Duwila (Kontributor)
 
 #Deskripsi
 Proyek ini menampilkan grafika sederhana menggunakan HTML dan JavaScript.
